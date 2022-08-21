@@ -1,5 +1,8 @@
 # spark-CZE
- 
+
+## Pending Items
+TODO: Unit & Integration Tests.
+
 **updated:** May - 2021
 
 ## Introduction
